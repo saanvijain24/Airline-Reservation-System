@@ -1,0 +1,10 @@
+_____________ABC Airlines______________
+_______________Tickets_________________
+_______________________________________
+ Customer ID : 4567
+ Customer Name : fghjk
+ Customer Gender : ghjk
+	Description
+
+Destination		Australia
+Flight cost:		44560
