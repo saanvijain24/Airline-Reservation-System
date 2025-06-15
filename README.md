@@ -5,7 +5,7 @@
 
 ---
 
-## ✈️  Key Features
+## Key Features
 
 | Module        | Responsibilities |
 |---------------|------------------|
@@ -22,12 +22,9 @@
 
 ---
 
-## 🛠 Build & Run
+##  Build & Run
 
 ### Prerequisites
 - A **C++17**-compatible compiler (e.g., `g++`, `clang++`, MSVC)
 
-### Compile
-```bash
-# On Linux / macOS / Windows (MinGW)
-g++ -std=c++17 -o airline_reservation main.cpp
+
